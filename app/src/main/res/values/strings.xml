@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TheGuardian News</string>
+
+    <string name="no_server">Server not responding.   Please try later.</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="returned_no_results">returned no results.</string>
+    <string name="sections_key" translatable="false">sections_key</string>
+    <string name="search_key" translatable="false">search_key</string>
+    <string name="requests_key" translatable="false">requests_key</string>
+    <string name="settings">Settings</string>
+    <string name="not_known" translatable="false">not known</string>
+    <string name="all" translatable="false">all</string>
+    <string name="none" translatable="false">none</string>
+    <string name="section" translatable="false">section</string>
+    <string name="production_office" translatable="false">production-office</string>
+    <string name="news" translatable="false">news</string>
+    <string name="order_by" translatable="false">order-by</string>
+    <string name="relevance" translatable="false">relevance</string>
+    <string name="show_fields" translatable="false">show-fields</string>
+    <string name="thumbnail" translatable="false">thumbnail</string>
+    <string name="page_size">page-size</string>
+    <string name="default_request_number" translatable="false">15</string>
+    <string name="number_of_news_items">Number of items to request</string>
+    <string name="show_tags" translatable="false">show-tags</string>
+    <string name="contributor" translatable="false">contributor</string>
+    <string name="q" translatable="false">q</string>
+    <string name="api_key" translatable="false">api-key</string>
+
+    <string name="key_api" translatable="false">7064b1ed-43c6-447e-87b1-55f1b3b0abc1</string>
+    <string name="AND" translatable="false">AND</string>
+    <string name="ALL">All</string>
+    <string name="News">News</string>
+    <string name="World_News">World News</string>
+    <string name="Football">Football</string>
+    <string name="Environment">Environment</string>
+    <string name="Technology">Technology</string>
+
+
+    <string name="all2">all</string>
+    <string name="news2">news</string>
+    <string name="world">world</string>
+    <string name="football">football</string>
+    <string name="environment">environment</string>
+    <string name="technology">technology</string>
+
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <string name="news_colour_categories">World news News Environment</string>
+    <string name="football_colour_categories">Football </string>
+    <string name="technology_colour_categories">Technology</string>
+    <string name="theguardian_news">TheGuardian News</string>
+
+</resources>

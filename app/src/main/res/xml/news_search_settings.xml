@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings">
+
+    <ListPreference
+        android:defaultValue="@string/all"
+        android:entries="@array/guardian_section_names"
+        android:entryValues="@array/guardian_section_values"
+        android:key="sections_key"
+        android:title="Sections" />
+
+    <EditTextPreference
+        android:defaultValue="@string/default_request_number"
+        android:selectAllOnFocus="true"
+        android:inputType="number"
+        android:key="requests_key"
+        android:title="@string/number_of_news_items" />
+
+</PreferenceScreen>

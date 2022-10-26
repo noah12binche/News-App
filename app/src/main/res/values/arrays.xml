@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="guardian_section_names">
+        <item>@string/ALL</item>
+        <item>@string/News</item>
+        <item>@string/World_News</item>
+        <item>@string/Football</item>
+        <item>@string/Environment</item>
+        <item>@string/Technology</item>
+    </string-array>
+
+    <string-array name="guardian_section_values">
+        <item>@string/all2</item>
+        <item>@string/news2</item>
+        <item>@string/world</item>
+        <item>@string/football</item>
+        <item>@string/environment</item>
+        <item>@string/technology</item>
+    </string-array>
+
+</resources>
+
